@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>RDF fusion</title>
+<link href="../css/index.css" rel="stylesheet" type="text/css"/> 
+<link rel="shortcut icon" href="../img/logo.ico">
+<script src="../JS/jQuery-2.1.4.min.js" type="text/javascript"></script>
+<script src="../JS/hot.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="header">
+  <div id="top_welcom">
+   RDF data fusion and truth discovery system 
+  </div>   
+  <div id="nav">
+  	&nbsp;&nbsp;<b><a href="index.html" >Home</a></b>
+  	&nbsp;&nbsp;|<b>Entity co-reference</b>
+  	&nbsp;&nbsp;|<b><a href="Predicate.html">Schema alignment</a></b>
+  	&nbsp;&nbsp;|<b><a href="Object.jsp">Conflict resolution</a></b>
+  </div>
+</div>
+<div id="container">
+	<div id="search">
+    <form id="lookup" action="Subject" method="post">
+        <input id="input" style="width: 262px;border: 1px solid rgb(35, 76, 127);height:30px;" name="q"/>
+        <input type="submit" style="height:30px;background: #234C7F;color: #ffffff;border: none;font-family: Arial;cursor: pointer;" value="SUBMIT" />      
+    </form>
+	<p>Examples: 
+        <a href="#" id="hot1" onclick="hot(1)">Beijing</a> 
+        <a href="#" id="hot2" onclick="hot(2)">Statue_of_Liberty</a>
+        <a href="#" id="hot3" onclick="hot(3)">Barack_Obama</a>
+        <a href="#" id="hot4" onclick="hot(4)">The_Tenant_of_Wildfell_Hall</a>
+        <a href="#" id="hot5" onclick="hot(5)">Mo_Yan</a>
+    </p>
+	</div>
+
+</div>
+<div id="footer">
+	©2016 &nbsp;&nbsp;<a href="http://labs.xjtudlc.com/labs/zscl.html"onclick="window.open(this.href); return false;">
+	Knowledge Discovering Group </a>, Xi'an JiaoTong University, P.R.China
+</div>
+</body>
+</html>

@@ -1,0 +1,61 @@
+{
+		"id":"0",
+		"name":"Beijing",
+		"children":[{
+			"id":"11",
+			"name":"Dbpedia",
+			"children":[{
+				"id":"21",
+				"name":"sameAs",
+				"children":[],
+				"data":{}
+			},{
+				"id":"22",
+				"name":"type",
+				"children":[],
+				"data":{}
+			},{
+				"id":"23",
+				"name":"lat",
+				"children":[],
+				"data":{}
+			}],
+			"data":{
+				"relation":"Dbpedia,<br/> <b>Predicate:</b><ul><li>sameAs</li><li>type</li></ul>"}
+		},{
+			"id":"12",
+			"name":"Yago",
+			"children":[],
+			"data":{}
+		},{
+			"id":"13",
+			"name":"Freebase",
+			"children":[],
+			"data":{}
+		},{
+			"id":"14",
+			"name":"geonames",
+			"children":[{
+				"id":"24",
+				"name":"sameAs",
+				"children":[],
+				"data":{}
+			},{
+				"id":"25",
+				"name":"long",
+				"children":[],
+				"data":{}
+			}],
+			"data":{
+				"relation":"Dbpedia <br/> <b>Predicate:</b><ul><li>sameAs</li><li>type</li></ul>"
+				}
+		},{
+			"id":"15",
+			"name":"opencyc",
+			"children":[],
+			"data":{}
+		}],
+		"data":{
+			"relation":"Beijing <br/><b>Source:</b><ul><li>Dbpedia</li><li>Yago</li><li>freebase</li><li>geonames</li><li>opencyc</li></ul>"
+		}
+}

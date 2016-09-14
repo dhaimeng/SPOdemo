@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Statue_of_Liberty
+http://sws.geonames.org/5139572/
+http://wikidata.dbpedia.org/resource/Q9202
+http://rdf.freebase.com/ns/m.072p8
+http://sw.opencyc.org/concept/Mx4rvgEMDZwpEbGdrcN5Y29ycA
+http://www.wikidata.org/entity/Q9202
+http://yago-knowledge.org/resource/Statue_of_Liberty

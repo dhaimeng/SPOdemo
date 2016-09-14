@@ -1,0 +1,9 @@
+http://data.nytimes.com/49823253852479839961
+http://sws.geonames.org/1816670/
+http://wikidata.dbpedia.org/resource/Q956
+http://rdf.freebase.com/ns/m.01914
+http://yago-knowledge.org/resource/Beijing
+http://linkedgeodata.org/triplify/node25248662
+http://sw.opencyc.org/concept/Mx4rvVjVPZwpEbGdrcN5Y29ycA
+http://www.wikidata.org/entity/Q956
+http://wordnet.rkbexplorer.com/id/synset-Beijing-noun-1
